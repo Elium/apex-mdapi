@@ -28,7 +28,7 @@
  * This is a dummy test class to obtain 100% coverage for the generated WSDL2Apex code, it is not a funcitonal test class
  **/ 
 @isTest  
-private class MetadataServiceTest
+private class MetadataDataControllerTest
 {    
 		
 	@IsTest
