@@ -4,6 +4,7 @@
         <members>MetadataDataController</members>
         <members>MetadataDataControllerTest</members>
         <members>MetadataDeployController</members>
+        <members>MetadataDeployControllerTest</members>
         <members>MetadataRetrieveController</members>
         <members>MetadataService</members>
         <members>MetadataServiceExamples</members>
